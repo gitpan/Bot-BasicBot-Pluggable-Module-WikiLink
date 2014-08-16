@@ -1,5 +1,5 @@
 ---
-abstract: 'The great new Bot::BasicBot::Pluggable::Module::WikiLink!'
+abstract: 'a simple Wikipedia helper plugin for Bot::BasicBot::Pluggable'
 author:
   - 'James Green <jkg@cpan.org>'
 build_requires:
@@ -21,4 +21,4 @@ requires:
   URI::Title: '0'
   WWW::Wikipedia: '0'
   perl: '5.006'
-version: '0.01'
+version: '0.02'
